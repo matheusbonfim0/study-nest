@@ -1,4 +1,4 @@
-# study-nest
+# Nest API's
 
 Repositório utilizado para criação de uma API Rest bem simples baseada no curso da Alura para aprimorar os meus conhecimentos em 
 
